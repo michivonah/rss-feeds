@@ -2,14 +2,20 @@
 <rss version="0.91">
 	<channel>
 		<title>Technews by Michi</title>
-		<description>Ein einfacher RSS Feed mit Neuigkeiten zu Technik.</description>
-		<language>de</language>
+		<description>Ein einfacher RSS Feed mit Neuigkeiten rund um Technik.</description>
+		<language>de-CH</language>
 		<link>https://github.com/michivonah/rss-feeds</link>
 		
 		<item>
-			<title>Apple kündigt ein neues Special Event an</title>
-			<pubDate>We, 07 Okt 2020</pubDate>
-			<description>Apple hat ein Specialevent für den 13. Oktober angekündigt. Sehr wahrscheinlich wird das neue iPhone 12 vorgestellt.</description>
+			<title>Apple k&uuml;ndigt ein neues Special Event an</title>
+			<pubDate>Wed, 07 Okt 2020</pubDate>
+			<description>Apple hat ein Specialevent für den 13. Oktober angek&uuml;ndigt. Sehr wahrscheinlich wird das neue iPhone 12 vorgestellt.</description>
+		</item>
+		
+		<item>
+			<title>Galaxy Fit 2 erschienen</title>
+			<pubDate>Wed, 07 Okt 2020</pubDate>
+			<description>Die Galaxy Fit 2 von Samsung ist vor einigen Tagen erschienen. Sie kostet nur halb soviel wie ihr Vorg&auml;nger.</description>
 		</item>
 	</channel>
 </rss>
