@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.91">
+	<channel>
+		<title>Technews by Michi</title>
+		<description>Ein einfacher RSS Feed mit Neuigkeiten zu Technik.</description>
+		<language>de</language>
+		<link>https://github.com/michivonah/rss-feeds</link>
+		
+		<item>
+			<title>Apple kündigt ein neues Special Event an</title>
+			<pubDate>We, 07 Okt 2020</pubDate>
+			<description>Apple hat ein Specialevent für den 13. Oktober angekündigt. Sehr wahrscheinlich wird das neue iPhone 12 vorgestellt.</description>
+		</item>
+	</channel>
+</rss>
