@@ -5,6 +5,11 @@
 		<description>Ein einfacher RSS Feed mit Neuigkeiten rund um Technik.</description>
 		<language>de-CH</language>
 		<link>https://github.com/michivonah/rss-feeds</link>
+		<image>
+			<url>https://cdn.pixabay.com/photo/2016/11/18/12/55/office-1834294_960_720.jpg</url>
+			<width>960</width>
+			<height>540</height>
+		</image>
 		
 		<item>
 			<title>Produkt&uuml;bersicht OnePlus Nord</title>
